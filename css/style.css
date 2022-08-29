@@ -14,7 +14,7 @@ header.banner {
 
 main {
     font-family: 'Ubuntu', sans-serif;
-    background-color: #06061B;
+    background-color: #104f74;
     color: #D0D0EB;
     padding-bottom: 3%;
 }
@@ -48,7 +48,7 @@ section.botonProductos {
 
 button {
     border-radius: 50px;
-    background-color: #171749;
+    background-color: #1b1b5e;
     margin-top: -4%;
     padding: 1.2%;
 }
